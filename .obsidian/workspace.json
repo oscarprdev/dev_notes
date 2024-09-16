@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "34f62cadd5891411",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TS/Core_concepts/concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TS/Core_concepts/005_Top_bottom_types.md",
+                "file": "TS/Core_concepts/concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TS/Core_concepts/005_Top_bottom_types.md",
+                "file": "TS/Core_concepts/concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TS/Core_concepts/005_Top_bottom_types.md"
+                "file": "TS/Core_concepts/concepts.md"
               }
             }
           }
@@ -160,8 +172,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea0f086419d46cf7",
+  "active": "34f62cadd5891411",
   "lastOpenFiles": [
+    "TS/Core_concepts/006_Nullish values.md",
+    "TS/Core_concepts/005_Top_bottom_types.md",
     "JS/Core_concepts/009_Closure.md",
     "JS/Core_concepts/008_Scope.md",
     "JS/Core_concepts/003_Types.md",
@@ -171,7 +185,6 @@
     "JS/Functional programming/003_Recursion.md",
     "JS/Functional programming/002_Side_effects.md",
     "JS/Functional programming/001_Pure_impure.md",
-    "TS/Core_concepts/005_Top_bottom_types.md",
     "TS/Core_concepts/002_Types_Interfaces.md",
     "TS/Core_concepts/003_Generics.md",
     "TS/Core_concepts/001_Unions_intersections.md",
