@@ -37,14 +37,74 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "TS/Core_concepts/006_Nullish values.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90f1ddd3a7a6bb19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "TS/Core_concepts/concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "493fb7a86c5a3838",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TS/Core_concepts/concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b13f5b14bb4702c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TS/Core_concepts/concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66cb79bed98386b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TS/Core_concepts/concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52c7538da088b7c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TS/Core_concepts/009_Conditional_types.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -110,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TS/Core_concepts/concepts.md",
+                "file": "TS/Core_concepts/009_Conditional_types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TS/Core_concepts/concepts.md",
+                "file": "TS/Core_concepts/009_Conditional_types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TS/Core_concepts/concepts.md"
+                "file": "TS/Core_concepts/009_Conditional_types.md"
               }
             }
           }
@@ -172,10 +232,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "34f62cadd5891411",
+  "active": "c5fdb290984501de",
   "lastOpenFiles": [
-    "TS/Core_concepts/006_Nullish values.md",
+    "TS/Core_concepts/concepts.md",
+    "TS/Core_concepts/009_Conditional_types.md",
+    "TS/Core_concepts/008_Satisfies.md",
+    "TS/Core_concepts/007_Optional_chaining_&&_nullish_coalesing.md",
+    "TS/Core_concepts/003_Generics.md",
     "TS/Core_concepts/005_Top_bottom_types.md",
+    "TS/Core_concepts/006_Nullish values.md",
+    "007_Optional_chaining.md",
     "JS/Core_concepts/009_Closure.md",
     "JS/Core_concepts/008_Scope.md",
     "JS/Core_concepts/003_Types.md",
@@ -186,9 +252,7 @@
     "JS/Functional programming/002_Side_effects.md",
     "JS/Functional programming/001_Pure_impure.md",
     "TS/Core_concepts/002_Types_Interfaces.md",
-    "TS/Core_concepts/003_Generics.md",
     "TS/Core_concepts/001_Unions_intersections.md",
-    "TS/Core_concepts/concepts.md",
     "TS/TYPESCRIPT.md"
   ]
 }
