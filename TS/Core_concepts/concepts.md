@@ -7,6 +7,12 @@
 [[007_Optional_chaining_&&_nullish_coalesing]]
 [[008_Satisfies]]
 [[009_Conditional_types]]
+[[010_Record_&&_Pick]]
+[[011_Mapping_modifiers]]
+[[012_Filtering_Properties]]
+
+
+
 
 
 

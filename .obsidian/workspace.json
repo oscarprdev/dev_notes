@@ -97,14 +97,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TS/Core_concepts/009_Conditional_types.md",
+                "file": "TS/Core_concepts/concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e00faf7390c0374f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TS/Core_concepts/concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff0470150f2d6b57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TS/Core_concepts/concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6cc97aed98949c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TS/Core_concepts/concepts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4bc8293a6d6b360",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TS/Core_concepts/004_Registry_pattern.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -170,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TS/Core_concepts/009_Conditional_types.md",
+                "file": "TS/Core_concepts/004_Registry_pattern.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TS/Core_concepts/009_Conditional_types.md",
+                "file": "TS/Core_concepts/004_Registry_pattern.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TS/Core_concepts/009_Conditional_types.md"
+                "file": "TS/Core_concepts/004_Registry_pattern.md"
               }
             }
           }
@@ -232,15 +280,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5fdb290984501de",
+  "active": "f4bc8293a6d6b360",
   "lastOpenFiles": [
+    "TS/Core_concepts/012_Filtering_Properties.md",
     "TS/Core_concepts/concepts.md",
+    "TS/Core_concepts/011_Mapping_modifiers.md",
+    "TS/Core_concepts/010_Record_&&_Pick.md",
     "TS/Core_concepts/009_Conditional_types.md",
+    "TS/Core_concepts/010_Mapped_types.md",
+    "TS/Core_concepts/002_Types_Interfaces.md",
+    "TS/Core_concepts/001_Unions_intersections.md",
+    "TS/Core_concepts/006_Nullish values.md",
+    "TS/Core_concepts/005_Top_bottom_types.md",
+    "TS/Core_concepts/004_Registry_pattern.md",
+    "TS/Core_concepts/003_Generics.md",
     "TS/Core_concepts/008_Satisfies.md",
     "TS/Core_concepts/007_Optional_chaining_&&_nullish_coalesing.md",
-    "TS/Core_concepts/003_Generics.md",
-    "TS/Core_concepts/005_Top_bottom_types.md",
-    "TS/Core_concepts/006_Nullish values.md",
     "007_Optional_chaining.md",
     "JS/Core_concepts/009_Closure.md",
     "JS/Core_concepts/008_Scope.md",
@@ -251,8 +306,6 @@
     "JS/Functional programming/003_Recursion.md",
     "JS/Functional programming/002_Side_effects.md",
     "JS/Functional programming/001_Pure_impure.md",
-    "TS/Core_concepts/002_Types_Interfaces.md",
-    "TS/Core_concepts/001_Unions_intersections.md",
     "TS/TYPESCRIPT.md"
   ]
 }
