@@ -4,155 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "68b055e23fa115d4",
+        "id": "fe0619c98fd56742",
         "type": "tabs",
         "children": [
           {
-            "id": "404c7fd864f74853",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/TYPESCRIPT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea0f086419d46cf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/Core_concepts/005_Top_bottom_types.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34f62cadd5891411",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/Core_concepts/006_Nullish values.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90f1ddd3a7a6bb19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/Core_concepts/concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "493fb7a86c5a3838",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/Core_concepts/concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b13f5b14bb4702c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/Core_concepts/concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66cb79bed98386b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/Core_concepts/concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52c7538da088b7c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/Core_concepts/concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e00faf7390c0374f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/Core_concepts/concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff0470150f2d6b57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/Core_concepts/concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6cc97aed98949c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/Core_concepts/concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4bc8293a6d6b360",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/JAVASCRIPT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63af570f5b55cdbf",
+            "id": "387de8bd6a89491e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -164,7 +20,7 @@
             }
           },
           {
-            "id": "98e6dbe5ff78e530",
+            "id": "63b77650337caeb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -176,7 +32,7 @@
             }
           },
           {
-            "id": "f3eff8d849ad4559",
+            "id": "de4babfdc31b3976",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -188,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -316,11 +172,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3eff8d849ad4559",
+  "active": "de4babfdc31b3976",
   "lastOpenFiles": [
-    "SYSTEM_DESIGN/001_Network_connections.md",
+    "SYSTEM_DESIGN/002_Web_Performance_lazy_load.md",
+    "SYSTEM_DESIGN/002_Web_Performance_image_min.md",
     "SYSTEM_DESIGN/002_Web_Performance.md",
     "SYSTEM_DESIGN/system_design.md",
+    "SYSTEM_DESIGN/001_Network_connections.md",
+    "TS/TYPESCRIPT.md",
+    "remote/JS/Core_concepts/concepts.md",
+    "remote/JS/Core_concepts",
+    "remote/JS",
+    "remote",
+    "TS/Core_concepts/ts_concepts.md",
+    "JS/Core_concepts/js_concepts.md",
     "JS/Core_concepts/009_Closure.md",
     "JS/Core_concepts/007_Promises.md",
     "JS/Core_concepts/005_Coercion.md",
@@ -337,17 +202,11 @@
     "SYSTEM_DESIGN/Core/001_Box_model.md",
     "SYSTEM_DESIGN/Core/core.md",
     "SYSTEM_DESIGN/System_desing.md",
-    "TS/TYPESCRIPT.md",
     "SYSTEM_DESIGN/Core",
     "SYSTEM_DESIGN",
     "JS/State_machines/State.md",
     "TS/Core_concepts/004_Registry_pattern.md",
     "JS/State_machines",
-    "TS/Core_concepts/concepts.md",
-    "TS/Core_concepts/010_Mapped_types.md",
-    "TS/Core_concepts/001_Unions_intersections.md",
-    "TS/Core_concepts/006_Nullish values.md",
-    "TS/Core_concepts/005_Top_bottom_types.md",
-    "TS/Core_concepts/003_Generics.md"
+    "TS/Core_concepts/010_Mapped_types.md"
   ]
 }
