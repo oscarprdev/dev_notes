@@ -49,3 +49,21 @@ function useFoo(foo: MyFoo) {
 	foo.other // Error, other has not been "picked" from Foo
 }
 ```
+
+## <span style="color: #2196F3;">Pick with Exclude</span>
+
+```typescript
+type Foo = {
+	cherry: 'a',
+	apple: 'b',
+	other: 'c'
+}
+
+type MyFoo = Pick<Foo, Exclude<keyof Foo, 'other'>>  
+
+function useFoo(foo: MyFoo) {
+	foo.apple // Allowed
+	foo.cherry // Allowed
+	foo.other // Error, other has not been "picked" from Foo
+}
+```

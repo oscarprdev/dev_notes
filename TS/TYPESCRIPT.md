@@ -1,1 +1,3 @@
-[[remote/TS/Core_concepts/concepts|concepts]]
+[[ts_concepts]]
+[[ts_config]]
+

@@ -1,3 +1,3 @@
-[[remote/JS/Core_concepts/concepts]]
+[[js_concepts]]
 [[Functional programming]]
-[[State]]
+
