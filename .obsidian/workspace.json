@@ -73,14 +73,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TS/Core_concepts/013_type_guard.md",
+                "file": "SYSTEM_DESIGN/system_design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f376945495c641b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SYSTEM_DESIGN/003_Reducer_pattern.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfa1942606b54c1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SYSTEM_DESIGN/system_design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f87c1116b6eec83e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SYSTEM_DESIGN/system_design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93bbdaeafeb8ee5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SYSTEM_DESIGN/system_design.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d9d4f63685d9a9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SYSTEM_DESIGN/005_Web_sockets_implementation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -146,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TS/Core_concepts/013_type_guard.md",
+                "file": "SYSTEM_DESIGN/005_Web_sockets_implementation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TS/Core_concepts/013_type_guard.md",
+                "file": "SYSTEM_DESIGN/005_Web_sockets_implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TS/Core_concepts/013_type_guard.md"
+                "file": "SYSTEM_DESIGN/005_Web_sockets_implementation.md"
               }
             }
           }
@@ -208,12 +268,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f9b13b92f195413",
+  "active": "5d9d4f63685d9a9c",
   "lastOpenFiles": [
-    "TS/Core_concepts/ts_concepts.md",
-    "TS/Core_concepts/013_type_guard.md",
-    "TS/Core_concepts/010_Record_&&_Pick.md",
+    "SYSTEM_DESIGN/004_Polling_implementation.md",
+    "SYSTEM_DESIGN/005_Web_sockets_implementation.md",
     "SYSTEM_DESIGN/system_design.md",
+    "SYSTEM_DESIGN/002_Web_Performance.md",
+    "SYSTEM_DESIGN/002_Web_Performance_image_min.md",
+    "SYSTEM_DESIGN/003_Reducer_pattern.md",
+    "SYSTEM_DESIGN/002_Web_Performance_lazy_load.md",
+    "SYSTEM_DESIGN/001_Network_connections.md",
+    "TESTING/001_unit_tests.md",
+    "TESTING/Testing.md",
+    "TESTING",
+    "SYSTEM_DESIGN/004_Observables.md",
+    "004_Iterator_pattern.md",
+    "SYSTEM_DESIGN/005_Observer_pattern.md",
+    "SYSTEM_DESIGN/004_Iterator_pattern.md",
+    "TS/Core_concepts/013_type_guard.md",
+    "TS/Core_concepts/ts_concepts.md",
+    "TS/Core_concepts/010_Record_&&_Pick.md",
     "JS/JAVASCRIPT.md",
     "State.md",
     "TS/TYPESCRIPT.md",
@@ -221,27 +295,13 @@
     "Core_concepts",
     "TS/ts_config.md",
     "enterprise.md",
-    "SYSTEM_DESIGN/002_Web_Performance.md",
-    "SYSTEM_DESIGN/002_Web_Performance_lazy_load.md",
-    "SYSTEM_DESIGN/002_Web_Performance_image_min.md",
-    "SYSTEM_DESIGN/001_Network_connections.md",
     "remote/JS/Core_concepts/concepts.md",
     "remote/JS/Core_concepts",
     "remote/JS",
     "remote",
     "JS/Core_concepts/js_concepts.md",
     "JS/Core_concepts/009_Closure.md",
-    "JS/Core_concepts/007_Promises.md",
-    "JS/Core_concepts/005_Coercion.md",
-    "JS/Core_concepts/002_High order functions.md",
-    "TS/Core_concepts/008_Satisfies.md",
-    "TS/Core_concepts/009_Conditional_types.md",
-    "TS/Core_concepts/011_Mapping_modifiers.md",
-    "TS/Core_concepts/012_Filtering_Properties.md",
-    "TS/Core_concepts/002_Types_Interfaces.md",
-    "Untitled",
     "SYSTEM_DESIGN",
-    "SYSTEM_DESIGN/Core/001_Box_model.md",
     "SYSTEM_DESIGN/Core",
     "SYSTEM_DESIGN",
     "JS/State_machines"
