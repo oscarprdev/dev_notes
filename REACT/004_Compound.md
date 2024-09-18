@@ -1,10 +1,10 @@
 ```typescript
 1. Create context
-const FlyOutContext = createContext();
+const FlyOutContext = React.createContext();
 
 2. Create a parent component
 function FlyOut(props) {
-  const [open, toggle] = useState(false);
+  const [open, toggle] = React.useState(false);
 
   return (
     <FlyOutContext.Provider value={{ open, toggle }}>
@@ -15,7 +15,7 @@ function FlyOut(props) {
 
 3. Create children component using the context
 function Toggle() {
-  const { open, toggle } = useContext(FlyOutContext);
+  const { open, toggle } = React.useContext(FlyOutContext);
 
   return (
     <div onClick={() => toggle(!open)}>
