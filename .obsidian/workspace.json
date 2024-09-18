@@ -282,9 +282,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ae7505236f020817",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TESTING/Testing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82238be03fa4389e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TS/GraphQL/GraphQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed4eb50395fd0d31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TS/GraphQL/001_Apollo_setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 22
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -350,7 +386,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REACT/004_Compound.md",
+                "file": "TS/GraphQL/001_Apollo_setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -367,7 +403,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REACT/004_Compound.md",
+                "file": "TS/GraphQL/001_Apollo_setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -390,7 +426,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REACT/004_Compound.md"
+                "file": "TS/GraphQL/001_Apollo_setup.md"
               }
             }
           }
@@ -412,10 +448,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e94c57b32c018cc",
+  "active": "ed4eb50395fd0d31",
   "lastOpenFiles": [
-    "REACT/003_Provider.md",
+    "TS/GraphQL/GraphQL.md",
+    "TS/GraphQL/001_Apollo_setup.md",
+    "TS/TYPESCRIPT.md",
+    "TESTING/002_ui_testing.md",
+    "TS/GraphQL",
+    "TESTING/Testing.md",
+    "TESTING/002_timeouts.md",
+    "TESTING/001_mock_api.md",
     "REACT/004_Compound.md",
+    "TESTING",
+    "REACT/003_Provider.md",
     "REACT/REACT.md",
     "REACT/002_High_order_component.md",
     "REACT/001_Container_presentation.md",
@@ -436,19 +481,10 @@
     "SYSTEM_DESIGN/002_Web_Performance_image_min.md",
     "SYSTEM_DESIGN/003_Reducer_pattern.md",
     "SYSTEM_DESIGN/002_Web_Performance_lazy_load.md",
-    "SYSTEM_DESIGN/001_Network_connections.md",
-    "TESTING/001_unit_tests.md",
-    "TESTING/Testing.md",
     "TESTING",
-    "SYSTEM_DESIGN/004_Observables.md",
-    "004_Iterator_pattern.md",
-    "SYSTEM_DESIGN/005_Observer_pattern.md",
-    "SYSTEM_DESIGN/004_Iterator_pattern.md",
     "Core_concepts",
     "remote/JS/Core_concepts",
     "remote/JS",
-    "remote",
-    "SYSTEM_DESIGN",
-    "SYSTEM_DESIGN/Core"
+    "remote"
   ]
 }
