@@ -4,323 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fadac06a0dfbc6e2",
+        "id": "a570b4997891d3c3",
         "type": "tabs",
         "children": [
           {
-            "id": "a7647c0539787f23",
+            "id": "d3f5eafdecd8bb4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "TS/TYPESCRIPT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3fbe9f98e31a2e8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/TYPESCRIPT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "009719effe98631b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/TYPESCRIPT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfd0646315696aa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/TYPESCRIPT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e48ec0f77d6348a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/Core_concepts/ts_concepts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f9b13b92f195413",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SYSTEM_DESIGN/system_design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f376945495c641b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SYSTEM_DESIGN/003_Reducer_pattern.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfa1942606b54c1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SYSTEM_DESIGN/system_design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f87c1116b6eec83e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SYSTEM_DESIGN/system_design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93bbdaeafeb8ee5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SYSTEM_DESIGN/system_design.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d9d4f63685d9a9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/JAVASCRIPT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3517522b26dae0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/JAVASCRIPT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1810c62347d2af2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/Js_patterns/js_patterns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a8e7867a3a7c70aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/Js_patterns/js_patterns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1bc64b7ed10fe03e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/Js_patterns/js_patterns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7739bf45ad7c2377",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/Js_patterns/js_patterns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1c4a12dd9b681f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/Js_patterns/js_patterns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc62f89490ab5e42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JS/Js_patterns/005_prototype.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6303fc93c4e14585",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REACT/REACT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f3e3913422ef4d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REACT/REACT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f0f0d71cfbcf17d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REACT/REACT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ca68498fa56f8e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REACT/REACT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8e94c57b32c018cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "REACT/004_Compound.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae7505236f020817",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TESTING/Testing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82238be03fa4389e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/GraphQL/GraphQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed4eb50395fd0d31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TS/GraphQL/001_Apollo_setup.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 25
+        ]
       }
     ],
     "direction": "vertical"
@@ -386,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TS/GraphQL/001_Apollo_setup.md",
+                "file": "TS/TYPESCRIPT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -403,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TS/GraphQL/001_Apollo_setup.md",
+                "file": "TS/TYPESCRIPT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -426,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TS/GraphQL/001_Apollo_setup.md"
+                "file": "TS/TYPESCRIPT.md"
               }
             }
           }
@@ -448,11 +147,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed4eb50395fd0d31",
+  "active": "d3f5eafdecd8bb4c",
   "lastOpenFiles": [
-    "TS/GraphQL/GraphQL.md",
-    "TS/GraphQL/001_Apollo_setup.md",
+    "CONTAINERS/002_Dockerfiles.md",
+    "CONTAINERS/001_Docker.md",
+    "CONTAINERS/Containers.md",
     "TS/TYPESCRIPT.md",
+    "CONTAINERS",
+    "TS/GraphQL/002_Resolvers.md",
+    "TS/GraphQL/001_Apollo_setup.md",
+    "TS/GraphQL/GraphQL.md",
     "TESTING/002_ui_testing.md",
     "TS/GraphQL",
     "TESTING/Testing.md",
@@ -477,14 +181,9 @@
     "JS/Js_patterns",
     "SYSTEM_DESIGN/004_Polling_implementation.md",
     "SYSTEM_DESIGN/system_design.md",
-    "SYSTEM_DESIGN/002_Web_Performance.md",
-    "SYSTEM_DESIGN/002_Web_Performance_image_min.md",
-    "SYSTEM_DESIGN/003_Reducer_pattern.md",
-    "SYSTEM_DESIGN/002_Web_Performance_lazy_load.md",
     "TESTING",
     "Core_concepts",
     "remote/JS/Core_concepts",
-    "remote/JS",
-    "remote"
+    "remote/JS"
   ]
 }
