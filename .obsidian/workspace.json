@@ -181,14 +181,110 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/Js_patterns/002_proxy.md",
+                "file": "JS/Js_patterns/js_patterns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7739bf45ad7c2377",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS/Js_patterns/js_patterns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1c4a12dd9b681f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS/Js_patterns/js_patterns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc62f89490ab5e42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS/Js_patterns/005_prototype.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6303fc93c4e14585",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REACT/REACT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f3e3913422ef4d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REACT/REACT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0f0d71cfbcf17d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REACT/REACT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ca68498fa56f8e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REACT/REACT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8e94c57b32c018cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REACT/004_Compound.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -254,7 +350,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/Js_patterns/002_proxy.md",
+                "file": "REACT/004_Compound.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +367,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/Js_patterns/002_proxy.md",
+                "file": "REACT/004_Compound.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +390,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/Js_patterns/002_proxy.md"
+                "file": "REACT/004_Compound.md"
               }
             }
           }
@@ -316,9 +412,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1bc64b7ed10fe03e",
+  "active": "c5fdb290984501de",
   "lastOpenFiles": [
+    "REACT/REACT.md",
+    "REACT/004_Compound.md",
+    "REACT/003_Provider.md",
+    "REACT/002_High_order_component.md",
+    "REACT/001_Container_presentation.md",
+    "JS/Js_patterns/005_prototype.md",
+    "REACT/react_patterns",
+    "REACT",
     "JS/Js_patterns/js_patterns.md",
+    "JS/Js_patterns/004_factory.md",
+    "JS/Js_patterns/003_observable.md",
     "JS/Js_patterns/002_proxy.md",
     "JS/Js_patterns/001_singleton.md",
     "JS/JAVASCRIPT.md",
@@ -338,21 +444,11 @@
     "004_Iterator_pattern.md",
     "SYSTEM_DESIGN/005_Observer_pattern.md",
     "SYSTEM_DESIGN/004_Iterator_pattern.md",
-    "TS/Core_concepts/013_type_guard.md",
-    "TS/Core_concepts/ts_concepts.md",
-    "TS/Core_concepts/010_Record_&&_Pick.md",
-    "State.md",
-    "TS/TYPESCRIPT.md",
-    "Core_concepts/concepts.md",
     "Core_concepts",
-    "TS/ts_config.md",
-    "enterprise.md",
     "remote/JS/Core_concepts",
     "remote/JS",
     "remote",
     "SYSTEM_DESIGN",
-    "SYSTEM_DESIGN/Core",
-    "SYSTEM_DESIGN",
-    "JS/State_machines"
+    "SYSTEM_DESIGN/Core"
   ]
 }
