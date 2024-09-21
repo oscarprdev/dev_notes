@@ -73,14 +73,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ACCESSIBILITY/004_roving_tabindex.md",
+                "file": "SYSTEM_DESIGN/002_Web_Performance_lazy_load.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23b895dd713e27f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SYSTEM_DESIGN/002_Web_Performance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a23bd1ec35d941ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS/Js_patterns/003_observable.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -146,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ACCESSIBILITY/004_roving_tabindex.md",
+                "file": "JS/Js_patterns/003_observable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ACCESSIBILITY/004_roving_tabindex.md",
+                "file": "JS/Js_patterns/003_observable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ACCESSIBILITY/004_roving_tabindex.md"
+                "file": "JS/Js_patterns/003_observable.md"
               }
             }
           }
@@ -208,10 +232,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af6dc3f87bbfba03",
+  "active": "a23bd1ec35d941ed",
   "lastOpenFiles": [
-    "ACCESSIBILITY/003_focus_management.md",
+    "SYSTEM_DESIGN/002_Web_Performance_lazy_load.md",
+    "SYSTEM_DESIGN/001_Network_connections.md",
+    "SYSTEM_DESIGN/system_design.md",
+    "SYSTEM_DESIGN/005_Web_sockets_implementation.md",
+    "SYSTEM_DESIGN/004_Polling_implementation.md",
+    "SYSTEM_DESIGN/003_Reducer_pattern.md",
+    "SYSTEM_DESIGN/002_Web_Performance_image_media.md",
+    "SYSTEM_DESIGN/002_Web_Performance.md",
+    "SYSTEM_DESIGN/002_Web_Performance_image_min.md",
     "ACCESSIBILITY/004_roving_tabindex.md",
+    "ACCESSIBILITY/003_focus_management.md",
     "ACCESSIBILITY/Accessibility.md",
     "ACCESSIBILITY/002_Aria.md",
     "TS/Core_concepts/005_Top_bottom_types.md",
@@ -221,7 +254,6 @@
     "TS/Core_concepts/001_Unions_intersections.md",
     "TESTING/Testing.md",
     "TESTING/001_mock_api.md",
-    "SYSTEM_DESIGN/002_Web_Performance.md",
     "ACCESSIBILITY/001_Escape_key.md",
     "ACCESSIBILITY",
     "TS/TYPESCRIPT.md",
@@ -230,16 +262,8 @@
     "CONTAINERS/Containers.md",
     "CONTAINERS",
     "TS/GraphQL/002_Resolvers.md",
-    "TS/GraphQL/001_Apollo_setup.md",
-    "TS/GraphQL/GraphQL.md",
-    "TESTING/002_ui_testing.md",
     "TS/GraphQL",
-    "TESTING/002_timeouts.md",
-    "REACT/004_Compound.md",
     "TESTING",
-    "REACT/003_Provider.md",
-    "REACT/REACT.md",
-    "REACT/002_High_order_component.md",
     "REACT/react_patterns",
     "REACT",
     "JS/Js_patterns",

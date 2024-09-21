@@ -23,14 +23,17 @@ How to implement **lazy load** with intersection observer:
 **[[002_Web_Performance_lazy_load]]**
 
 How to implement different **images sizes** depending on the viewport:
-[[002_Web_Performance_image_min]]
+[[002_Web_Performance_image_media]]
 
 ```typescript
 <img src="picture-900.jpg"
-	srcset="picture-600.jpg 600w, picture-900.jpg 900w" 
+	srcset="
+		picture-600.jpg 600w, 
+		picture-900.jpg 900w" 
 	sizes="(max-width: 600px) 600px, (max-width: 900) 900px"/>
 ```
 
+*Extra:* How to minify images: [[002_Web_Performance_image_min]]
 ## <span style="color: #2196F3;">CLS</span>
 
 *Comulative layout shift: The total movement distance and impact of page elements during the entire lifetime of the document loaded. Ex: buttons being pushed down after an image is loaded*
