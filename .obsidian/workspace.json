@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TS/TYPESCRIPT.md",
+                "file": "TESTING/001_mock_api.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a67e229d262c2b82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ACCESSIBILITY/Accessibility.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TS/TYPESCRIPT.md",
+                "file": "ACCESSIBILITY/Accessibility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TS/TYPESCRIPT.md",
+                "file": "ACCESSIBILITY/Accessibility.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TS/TYPESCRIPT.md"
+                "file": "ACCESSIBILITY/Accessibility.md"
               }
             }
           }
@@ -147,12 +160,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3f5eafdecd8bb4c",
+  "active": "c5fdb290984501de",
   "lastOpenFiles": [
+    "TESTING/001_mock_api.md",
+    "ACCESSIBILITY/Accessibility.md",
+    "ACCESSIBILITY",
+    "TS/TYPESCRIPT.md",
     "CONTAINERS/002_Dockerfiles.md",
     "CONTAINERS/001_Docker.md",
     "CONTAINERS/Containers.md",
-    "TS/TYPESCRIPT.md",
     "CONTAINERS",
     "TS/GraphQL/002_Resolvers.md",
     "TS/GraphQL/001_Apollo_setup.md",
@@ -161,7 +177,6 @@
     "TS/GraphQL",
     "TESTING/Testing.md",
     "TESTING/002_timeouts.md",
-    "TESTING/001_mock_api.md",
     "REACT/004_Compound.md",
     "TESTING",
     "REACT/003_Provider.md",
@@ -180,10 +195,8 @@
     "SYSTEM_DESIGN/005_Web_sockets_implementation.md",
     "JS/Js_patterns",
     "SYSTEM_DESIGN/004_Polling_implementation.md",
-    "SYSTEM_DESIGN/system_design.md",
     "TESTING",
     "Core_concepts",
-    "remote/JS/Core_concepts",
-    "remote/JS"
+    "remote/JS/Core_concepts"
   ]
 }
