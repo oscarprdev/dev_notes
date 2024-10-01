@@ -97,14 +97,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JS/Js_patterns/003_observable.md",
+                "file": "TESTING/Testing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1de197f826e3df17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TESTING/002_ui_testing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS/Js_patterns/003_observable.md",
+                "file": "TESTING/002_ui_testing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS/Js_patterns/003_observable.md",
+                "file": "TESTING/002_ui_testing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS/Js_patterns/003_observable.md"
+                "file": "TESTING/002_ui_testing.md"
               }
             }
           }
@@ -232,8 +244,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a23bd1ec35d941ed",
+  "active": "1de197f826e3df17",
   "lastOpenFiles": [
+    "SYSTEM_DESIGN/002_Web_Performance.md",
+    "TESTING/001_mock_api.md",
+    "TESTING/002_ui_testing.md",
+    "TESTING/Testing.md",
+    "JS/Js_patterns/003_observable.md",
     "SYSTEM_DESIGN/002_Web_Performance_lazy_load.md",
     "SYSTEM_DESIGN/001_Network_connections.md",
     "SYSTEM_DESIGN/system_design.md",
@@ -241,7 +258,6 @@
     "SYSTEM_DESIGN/004_Polling_implementation.md",
     "SYSTEM_DESIGN/003_Reducer_pattern.md",
     "SYSTEM_DESIGN/002_Web_Performance_image_media.md",
-    "SYSTEM_DESIGN/002_Web_Performance.md",
     "SYSTEM_DESIGN/002_Web_Performance_image_min.md",
     "ACCESSIBILITY/004_roving_tabindex.md",
     "ACCESSIBILITY/003_focus_management.md",
@@ -252,16 +268,12 @@
     "TS/Core_concepts/003_Generics.md",
     "TS/Core_concepts/002_Types_Interfaces.md",
     "TS/Core_concepts/001_Unions_intersections.md",
-    "TESTING/Testing.md",
-    "TESTING/001_mock_api.md",
     "ACCESSIBILITY/001_Escape_key.md",
     "ACCESSIBILITY",
     "TS/TYPESCRIPT.md",
     "CONTAINERS/002_Dockerfiles.md",
     "CONTAINERS/001_Docker.md",
-    "CONTAINERS/Containers.md",
     "CONTAINERS",
-    "TS/GraphQL/002_Resolvers.md",
     "TS/GraphQL",
     "TESTING",
     "REACT/react_patterns",
